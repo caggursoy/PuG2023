@@ -1,5 +1,5 @@
-# PuG2023 Posters Supplementary Webpage
-This is the repo for Çağatay Gürsoy's PuG2023 posters' supplementary webpage.
+# PuG2023 Poster's Supplementary Webpage
+This is the repo for Çağatay Gürsoy's PuG2023 poster's supplementary webpage.
 
 It is forked from Eliahu Horwitz's [template](https://github.com/eliahuhorwitz/Academic-project-page-template).
 
